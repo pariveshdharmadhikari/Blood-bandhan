@@ -1,0 +1,40 @@
+/* .navbar{
+  height: 0px;
+    background:  linear-gradient(45deg,  transparent 0%, transparent 57%, #423246 100%),
+  linear-gradient(-45deg, #8f5046 0%,  #A14436 0.3%, #4C2556 112%,  transparent 11% ),
+  linear-gradient(-90deg, #A14436 100%, #A14436 65%, transparent 20% )
+} */
+
+
+.navbar {
+    overflow: hidden;
+    /* //background-color:  rgb(212, 212, 212); */
+    background: linear-gradient(to left, #fB00FF 0%, #588EE9 100%);
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid black; 
+    border-top: 1px solid black;
+  
+  }
+  
+  li {
+    float: left;
+    /* display: block; */
+    color: black;
+    padding: 13px;
+    text-decoration: none;
+  }
+
+  li:hover{
+    background: rgb(171, 4, 212);
+  }
+  
+  #LoginBody{
+    width:100%;
+    height:480px;
+  }
+
+  #time{
+    position: absolute;
+    margin: 15px 0px 0px 550px;
+  }
