@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "first_name": "Trail",
+      "last_name": "trail",
+      "email": "t@t.com",
+      "username": "tt@123",
+      "password": "111111",
+      "ConfirmPassword": "111111",
+      "role": "author",
+      "id": 1
+    },
+    {
+      "first_name": "demo",
+      "last_name": "demo",
+      "email": "a@d.com",
+      "username": "pb@123",
+      "password": "111111",
+      "ConfirmPassword": "111111",
+      "role": "author",
+      "id": 2
+    },
+    {
+          "first_name": "Trail",
+          "last_name": "birle1",
+          "email": "t@t.com",
+          "username": "pb@123",
+          "password": "111111",
+          "ConfirmPassword": "111111",
+          "role": "author",
+          "id": 3
+    }
+
+  ]
+}
